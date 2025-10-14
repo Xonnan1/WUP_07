@@ -73,4 +73,4 @@ When observing that inferential results, I found that the odds of men dying to c
 
 ## Conclusions
 
-
+The graphical plot showed the amount of people that were apart from the statistical report and showed how more men died from Covid than women did. The numerical results confirmed that percentage amount when it showed the amount of men was almost 1/3rd more than women and how women had deaths up to 1.4% while men had up to 3% in a lower margin amount. Overall the Inferential results concluded the results with men having a ratio of 2.3 times more likely to die from Covid than women do and the p-value further concludes it with men having a 0.0009 chance of death from Covid which shows the differences in what this disease focuses on in South Korea.
