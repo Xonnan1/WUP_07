@@ -53,6 +53,13 @@ When I observed the graphical plot I observed that the amount of people were ali
   
 ## Numerical results
 
+```{r}
+table1 <- xtabs(~result + Sex, data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
+
+
 
 ## Inferential results 
 
