@@ -49,12 +49,7 @@ basicCC <- ggplot(dd2,aes(x=result,y=prcnt*100,fill=Sex))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-  
-
-
-
-
-
+When I observed the graphical plot I observed that the amount of people were alive rather than dead. However the percentage shows that more males died rather than women with women living longer than men do. The disease seems to target men by more than 2/3rds than women from less than 1/3rd.
   
 ## Numerical results
 
