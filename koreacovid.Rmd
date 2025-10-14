@@ -59,7 +59,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-
+The Numerical results showed that the 98.7% of females were alive and only 1.4% died due to Covid while 97% of Male's survived and 3% died. Overall there were less amount of male's however, they still had a higher death rate than females.
 
 ## Inferential results 
 
